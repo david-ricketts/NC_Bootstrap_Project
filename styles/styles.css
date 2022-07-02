@@ -1,0 +1,44 @@
+body {
+    font-family: 'Titian One', cursive;
+}
+.jumbotron{
+    background-image: linear-gradient(to bottom right, #3e4444, #c1946a)
+}
+nav  {
+    background-color: #405d27 !important;;
+}
+nav a {
+    color: white;
+    
+}
+
+h1 {
+    color: white;
+}
+
+#accordion .card-header {
+    background-color: #3e4444;
+}
+#accordion button {
+
+    color: white
+}
+
+footer {
+    background: #405d27;
+}
+
+footer .card {
+    background: #405d27;
+    color: white;
+    border-color: #405d27;
+}
+
+footer i {
+    color: white;
+}
+
+.light-green {
+    background-color: #82b74b;
+    color: white;
+}
